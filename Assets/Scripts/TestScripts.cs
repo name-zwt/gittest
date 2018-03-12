@@ -21,6 +21,4 @@ public class TestScripts : MonoBehaviour {
     public GameObject obj;
 
     public GameObject obj1;
-
-    public GameObject 我是bug;
 }
