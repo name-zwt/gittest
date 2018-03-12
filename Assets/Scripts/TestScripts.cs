@@ -18,6 +18,8 @@ public class TestScripts : MonoBehaviour {
 
     public List<int> list;
 
+    public int age;
+
     public GameObject xyz;
 
     public GameObject obj1;
