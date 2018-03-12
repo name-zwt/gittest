@@ -14,7 +14,7 @@ public class TestScripts : MonoBehaviour {
 		
 	}
 
-    public string name;
+    public string name = "牛逼啊";
 
     public List<int> list;
 
