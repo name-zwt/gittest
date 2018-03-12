@@ -18,7 +18,7 @@ public class TestScripts : MonoBehaviour {
 
     public List<int> list;
 
-    public GameObject obj;
+    public GameObject game;
 
     public GameObject obj1;
 }
