@@ -14,7 +14,7 @@ public class TestScripts : MonoBehaviour {
 		
 	}
 
-    public string name = "22";
+    public string name = "2002";
 
     public List<int> list;
 
