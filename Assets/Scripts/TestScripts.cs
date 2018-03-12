@@ -13,4 +13,8 @@ public class TestScripts : MonoBehaviour {
 	void Update () {
 		
 	}
+
+    public string name;
+
+    public List<int> list;
 }
